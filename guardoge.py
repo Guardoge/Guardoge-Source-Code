@@ -4,10 +4,10 @@ import requests
 import tweepy
 import time
 
-access_token = '2281115456-IN0iDReAEsoynUjBA5306e7y2dHoEF0JCm6e9wL'
-access_token_secret = '4BIXBvl4FKcxbywusogHY75FfStsdBxIvQ1efQ224lDj1'
-consumer_key = 'WoQmQDWup7kzA2sG1gRhBg'
-consumer_secret = 'rpwi8Q8TWePbPLXXGNpDGERwaDnBQz9MZJuASGORpU'
+access_token = 'Insert Twitter access token'
+access_token_secret = 'Insert Twitter access secret'
+consumer_key = 'Insert Twitter consumer key'
+consumer_secret = 'Insert Twitter consumer secret'
 
 def strip_title(title):
 	if len(title) < 94:
